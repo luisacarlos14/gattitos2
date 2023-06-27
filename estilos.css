@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(215, 181, 181);
+    color: white;
+    font-family:'Courier New', Courier, monospace;
+}
+h1{
+    color: black;
+}
+h3{
+    color: darkmagenta;
+    font-size: 23px;
+}
+p{
+    color:rgb(178, 30, 104);
+    font-size: 20px;
+
+}
+
+img{
+    height: 150px;
+}
+/*Esto es un comentario */
+h1, p {
+    color: #ffbdff;
+}
+
+
+img {
+    /* width: 400px;*/
+    /* height: 300px;*/
+    border-style: dashed;
+    margin-left: 40px;
+    margin-bottom: 40px;
+    padding: 30px;
+}
+
+.img1 {
+    width: 500px;
+    height: 400px;
+}
+
+.img2 {
+    width: 700px;
+    height: 400px;
+}
+
+a, small{
+    color:aqua;
+}
